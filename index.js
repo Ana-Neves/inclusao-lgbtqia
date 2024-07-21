@@ -37,13 +37,10 @@ app.get('/direitos-trabalhistas', (req, res) => {
         Brasil: 'Direito ao nome social, proteção contra discriminação no trabalho, direito à igualdade de oportunidades e tratamento justo.',
         EUA: 'Proteção contra discriminação com base na orientação sexual e identidade de gênero em muitos estados, embora a cobertura possa variar dependendo do estado.',
         Canadá: 'Proteção contra discriminação baseada em orientação sexual e identidade de gênero, direitos iguais em todos os aspectos do emprego, e acesso a benefícios de saúde para casais do mesmo sexo.',
-        Reino Unido: 'Proteção contra discriminação no emprego por orientação sexual e identidade de gênero, direito ao reconhecimento do nome social, e proteção legal para casais do mesmo sexo.',
         Alemanha: 'Proteção contra discriminação no local de trabalho com base em orientação sexual e identidade de gênero, e igualdade de direitos em relação a benefícios e oportunidades de emprego.',
         França: 'Proteção contra discriminação no emprego com base na orientação sexual e identidade de gênero, e acesso a benefícios de saúde para casais do mesmo sexo.',
         Austrália: 'Proteção contra discriminação no trabalho por orientação sexual e identidade de gênero, e acesso igualitário a oportunidades e benefícios de emprego.',
-        Países Baixos: 'Proteção contra discriminação no local de trabalho, direito ao nome social, e igualdade de tratamento para casais do mesmo sexo e pessoas trans.',
         Suécia: 'Proteção contra discriminação no emprego baseada em orientação sexual e identidade de gênero, e políticas inclusivas para promover igualdade no local de trabalho.',
-        Nova Zelândia: 'Proteção contra discriminação no emprego com base em orientação sexual e identidade de gênero, e reconhecimento de casamentos e parcerias do mesmo sexo.'
       };
       
   res.json(direitos);
