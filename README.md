@@ -217,5 +217,4 @@ Abra um Pull Request no GitHub.
 Este projeto é licenciado sob a MIT License 📝.
 
 
-
-Obrigado por conferir a Inclusão LGBTQIA+ API! Seu feedback e con
+Obrigado por conferir a Inclusão LGBTQIA+ API! Seu feedback e contribuições são altamente apreciados 🙌.
