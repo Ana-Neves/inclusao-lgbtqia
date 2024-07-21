@@ -11,8 +11,8 @@ The API offers the following endpoints:
 - **GET /inclusive-jobs** 🧑‍💻
   - Returns a list of inclusive job openings.
   - Example response:
-    ```json
- [
+       ```json
+       [
       {
         "empresa": "Empresa Inclusiva A",
         "cargo": "Desenvolvedor(a) Front-end",
@@ -24,7 +24,9 @@ The API offers the following endpoints:
         "local": "São Paulo, SP"
       }
     ]
-    ```
+
+   ```
+
 
 - **GET /labor-rights** ⚖️
   - Provides information about labor rights for LGBTQIA+ individuals in different countries.
