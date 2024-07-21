@@ -1,5 +1,5 @@
 
-Copy code
+
 # 🌈 LGBTQIA+ Inclusion API
 
 Welcome to the **LGBTQIA+ Inclusion API** 🚀 repository, an API developed to promote inclusion and diversity in the job market. This API provides information on inclusive job listings, labor rights for LGBTQIA+ individuals, and mentorship and support programs.
