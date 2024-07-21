@@ -5,7 +5,6 @@ const port = 3000;
 
 app.get('/vagas-inclusivas', (req, res) => {
     const vagas = [
-        
         { empresa: 'Banco do Brasil', cargo: 'Analista de Sistemas', local: 'São Paulo, SP' },
         { empresa: 'Grupo B2W Digital', cargo: 'Desenvolvedor(a) de Software', local: 'Rio de Janeiro, RJ' },
         { empresa: 'Magazine Luiza', cargo: 'Gerente de E-commerce', local: 'São Paulo, SP' },
@@ -16,8 +15,6 @@ app.get('/vagas-inclusivas', (req, res) => {
         { empresa: 'Caixa Econômica Federal', cargo: 'Analista de Riscos', local: 'Brasília, DF' },
         { empresa: 'Bradesco', cargo: 'Desenvolvedor(a) de Sistemas', local: 'São Paulo, SP' },
         { empresa: 'Embraer', cargo: 'Engenheiro(a) de Software', local: 'São José dos Campos, SP' },
-      
-        
         { empresa: 'Salesforce', cargo: 'Software Engineer', local: 'San Francisco, CA, USA' },
         { empresa: 'Google', cargo: 'UX Designer', local: 'Mountain View, CA, USA' },
         { empresa: 'Microsoft', cargo: 'Program Manager', local: 'Redmond, WA, USA' },
@@ -28,10 +25,11 @@ app.get('/vagas-inclusivas', (req, res) => {
         { empresa: 'Adobe', cargo: 'Software Developer', local: 'San Jose, CA, USA' },
         { empresa: 'Spotify', cargo: 'Data Analyst', local: 'New York, NY, USA' },
         { empresa: 'Oracle', cargo: 'Cloud Engineer', local: 'Austin, TX, USA' }
-      ];
-      
-  res.json(vagas);
+    ];
+
+    res.json(vagas);
 });
+
 
 
 app.get('/direitos-trabalhistas', (req, res) => {
