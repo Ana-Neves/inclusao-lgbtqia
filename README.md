@@ -84,10 +84,11 @@ The server will start at http://localhost:3000 🌐.
 ### Testing the API
 You can test the endpoints using a browser or a tool like Postman 🛠️.
 
-Inclusive Jobs: http://localhost:3000/inclusive-jobs
-Labor Rights: http://localhost:3000/labor-rights
-Mentorship Programs: http://localhost:3000/mentorship-programs
-Contribution
+Inclusive Jobs: http://localhost:3000/vagas-inclusivas
+Labor Rights: http://localhost:3000/direitos-trabalhistas
+Mentorship Programs: http://localhost:3000/programas-mentoria
+
+### Contribution
 Contributions are welcome! To contribute, please follow these steps:
 
 Fork the repository 🍴.
