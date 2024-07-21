@@ -24,8 +24,7 @@ The API offers the following endpoints:
         "local": "São Paulo, SP"
       }
     ]
-
-   ```
+     ```
 
 
 - **GET /labor-rights** ⚖️
