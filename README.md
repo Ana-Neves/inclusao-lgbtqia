@@ -105,12 +105,12 @@ This project is licensed under the MIT License 📝.
 Thank you for checking out the LGBTQIA+ Inclusion API! Your feedback and contributions are highly appreciated 🙌.
 
 
+##
+
+-  Portuguese Version 🇧🇷
 
 
-----   Portuguese Version 🇧🇷
-
-
-
+##
 
    # 🌈 Inclusão LGBTQIA+ API
 
