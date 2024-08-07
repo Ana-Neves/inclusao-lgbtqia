@@ -84,9 +84,9 @@ The server will start at http://localhost:3000 🌐.
 ### Testing the API
 You can test the endpoints using a browser or a tool like Postman 🛠️.
 
-Inclusive Jobs: http://localhost:3000/vagas-inclusivas
-Labor Rights: http://localhost:3000/direitos-trabalhistas
-Mentorship Programs: http://localhost:3000/programas-mentoria
+Inclusive Jobs: http://localhost:3001/vagas-inclusivas
+Labor Rights: http://localhost:3001/direitos-trabalhistas
+Mentorship Programs: http://localhost:3001/programas-mentoria
 
 ### Contribution
 Contributions are welcome! To contribute, please follow these steps:
@@ -200,9 +200,9 @@ O servidor será iniciado em http://localhost:3000 🌐.
 Testando a API
 Você pode testar os endpoints utilizando um navegador ou uma ferramenta como Postman 🛠️.
 
-Vagas Inclusivas: http://localhost:3000/vagas-inclusivas
-Direitos Trabalhistas: http://localhost:3000/direitos-trabalhistas
-Programas de Mentoria: http://localhost:3000/programas-mentoria
+Vagas Inclusivas: http://localhost:3001/vagas-inclusivas
+Direitos Trabalhistas: http://localhost:3001/direitos-trabalhistas
+Programas de Mentoria: http://localhost:3001/programas-mentoria
 Contribuição
 Contribuições são bem-vindas! Para contribuir, por favor siga os seguintes passos:
 
